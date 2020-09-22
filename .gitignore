@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+
+## Coverage directory used by tools like istanbul
+/coverage/
+/*.css
+/*.js
+/*.png
+/*.html
+
+# nyc test coverage
+.nyc_output
